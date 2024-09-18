@@ -12,12 +12,12 @@
 	<atom:link href="https://wplatam.plakdemo.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://wplatam.plakdemo.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Sep 2024 20:10:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Sep 2024 01:37:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 </channel>
 </rss>
